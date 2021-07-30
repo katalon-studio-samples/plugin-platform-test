@@ -13,5 +13,5 @@ Requirements:
 ## Usage
 - Install the `Katalon Studio v6.0.3 or later`.
 - Go to *Plugin* > *Install Plugin* and select the generated jar file.
-- A `hello` message `Event Log` tab after the installation completed. 
+- A `hello` message and other helpful information will appear in the `Event Log` tab after the installation is completed. 
 - Execute a test suite and wait for a summary message.
