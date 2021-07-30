@@ -1,4 +1,4 @@
-# Katalon Studio sample plugin for beginners
+# Katalon Studio sample plugin for testing Katalon Studio Platform
 
 This is a demostrated plugin that listen to `Plugin installation` event and `Katalon Studio execution` event.
 
